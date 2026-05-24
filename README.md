@@ -1,3 +1,5 @@
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-Support-ff5e5b?logo=ko-fi&logoColor=white)](https://ko-fi.com/artomstatsenko)
+
 # Project Pin Board 📌
 
 [Chinese Document](README_ZH.md)
