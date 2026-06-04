@@ -126,7 +126,7 @@ This project is compatible with the following versions of the Unity Editor:
 | Unity 2021.3.22f1 | ✔️     |      |
 | Unity 2021.3.27f1 | ✔️     |      |
 | Unity 2021.3.29f1 | ✔️     |      |
-| Unity 6 (6000.x)  | ✔️     |      |
+| Unity 6000.3.11f1 | ✔️     |      |
 
 ## Dependencies
 
